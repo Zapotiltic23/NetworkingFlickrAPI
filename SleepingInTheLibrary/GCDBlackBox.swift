@@ -1,8 +1,8 @@
 //
 //  GCDBlackBox.swift
 //
-//  Created by Jarrod Parkes on 11/3/15.
-//  Copyright © 2015 Udacity. All rights reserved.
+//  Created by Horacio A Sanchez
+//  Copyright © Sanchez Inc. All rights reserved.
 //
 
 import Foundation
